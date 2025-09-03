@@ -25,6 +25,9 @@ Policy information (type, status, coverage, premiums)
 Customer demographics (age, gender, location)
 Claim records (claim amounts, dates, statuses)
 Customer feedback (text + sentiment)
+
+
+
 📌 Key KPIs Displayed
 KPI	Value
 Total Premium Collected	₹5.97 Million
@@ -33,11 +36,16 @@ Total Policy Coverage	₹600.33 Million
 Total Customers	~2,300+
 Claims Processed	1,000+
 Customer Feedbacks Analyzed	278
+
+
+
 📈 Insights Generated
 Male customers contributed the highest claim volume; however, female policyholders had higher average premiums.
 Health and vehicle policies formed the bulk of premium income.
 Word cloud and sentiment analysis highlighted areas like “support”, “delay”, and “agent” as critical feedback keywords.
 Most claims occurred in the age group 30–45, indicating mid-age policyholders are high-risk but high-value.
+
+
 🚀 Key Features Implemented
 ✅ Published to Power BI Service with secure access
 ✅ Configured Row-Level Security (RLS) for user-specific views (e.g., branch-wise analysis)
